@@ -1,0 +1,20 @@
+It is better for you to go through this section after recalling ideas
+on triangles, in particular, the chapters on properties of triangles
+and congruence of triangles.
+You know how triangles are classified based on sides or
+angles and the following important properties concerning triangles:
+(i) The exterior angle of a triangle is equal in measure to the
+sum of interior opposite angles.
+(ii) The total measure of the three angles of a triangle is 180°.
+(iii) Sum of the lengths of any two sides of a triangle is greater
+than the length of the third side.
+(iv) In any right-angled triangle, the square of the length of
+hypotenuse is equal to the sum of the squares of the lengths of the other two
+sides.
+In the chapter on ‘Congruence of Triangles’, we saw that a triangle can be drawn if any
+one of the following sets of measurements are given:
+(i) Three sides.
+(ii) Two sides and the angle between them.
+(iii) Two angles and the side between them.
+(iv) The hypotenuse and a leg in the case of a right-angled triangle.
+We will now attempt to use these ideas to construct triangles.
